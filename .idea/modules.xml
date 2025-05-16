@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/codeminz-frontend.iml" filepath="$PROJECT_DIR$/.idea/codeminz-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codemindz-frontend/.idea/codemindz-frontend.iml" filepath="$PROJECT_DIR$/../codemindz-frontend/.idea/codemindz-frontend.iml" />
     </modules>
   </component>
 </project>
